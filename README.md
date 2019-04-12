@@ -1,3 +1,5 @@
+<a href="http://jpexposito.com"><img src="https://raw.githubusercontent.com/jpexposito/DAM/master/multiplataforma.png" title="DAM @jpexposito" alt="DAM @jpexposito"></a>
+
 # Desarrollo de Aplicaciones Multiplataforma
 
 El Ciclo Formativo de Grado Superior DAM (Desarrollo de Aplicaciones Multiplataforma), te permitirá trabajar desarrollando,
