@@ -20,9 +20,10 @@ Para desarrollar las tareas/prácticas y/o ejemplos es necesario tener conocimie
 
 En la actualidad imparto de manera parcial o total los siguientes modulos:
 
-* Acceso a Datos
-* Desarrollo de Interfaces
-* Entornos de Desarrollo
+* 2019:
+  * [Acceso a Datos](https://github.com/jpexposito/DAM/tree/master/2018-2019/ACCESO-DATOS/app-acceso-datos)
+  * [Desarrollo de Interfaces](https://github.com/jpexposito/DAM/tree/master/2018-2019/INTERFACES/app-interfaces)
+  * [Entornos de Desarrollo]
 
 ## Entorno de Trabajo
 
