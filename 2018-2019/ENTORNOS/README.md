@@ -13,3 +13,16 @@ Algunos de los contenidos y objetivos de este módulo son:
 * La utilización de herramientas de depuración, optimización y documentación de aplicaciones.
 * Instalación y uso de entornos de desarrollo.
 * Elaboración de diagramas de comportamiento.
+
+## Trabajo en Clase
+
+El módulo se va a centrar en el trabajo en clase, realizando una pequeña aplicación, realizando:
+* Pruebas unitarias.
+* Documentación interna.
+* Diagrama de Clases.
+* Diagrama de Comportamiento.
+* Optimización.
+
+
+<a href="http://jpexposito.com"><img src="https://raw.githubusercontent.com/jpexposito/DAM/master/calculadora-en-java.png" title="Entornos de Desarrollo Calculadora en Java @jpexposito" alt="Entornos de Desarrollo Calculadora en Java @jpexposito"></a>
+
