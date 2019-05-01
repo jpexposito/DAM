@@ -4,9 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>es.formacion.cip</groupId>
+    <parent>
+        <groupId>es.formacion.cip</groupId>
+        <artifactId>entornos</artifactId>
+        <version>1.0</version>
+    </parent>
+
+
     <artifactId>app-entornos</artifactId>
-    <version>1.0-SNAPSHOT</version>
 
 
 </project>
