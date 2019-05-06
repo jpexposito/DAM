@@ -9,6 +9,7 @@ public class Division extends Operacion{
         super(n1, n2, '/');
         if(n2==0) System.out.println("No se puede dividir entre cero");
         else this.div = n1 / n2;
-        this.setRes(this.div);
+        this.setResultado(this.div);
+
     }
 }
