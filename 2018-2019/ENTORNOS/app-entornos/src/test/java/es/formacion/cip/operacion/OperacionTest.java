@@ -24,7 +24,6 @@ public class OperacionTest {
         Assert.assertEquals("El valor en Numero 1 no es el correcto",operacion.getNumero1(),Valor_1,0);
         Assert.assertEquals("El valor en Numero 2 no es el correcto",operacion.getNumero2(),Valor_2,0);
         Assert.assertEquals("El valor de la operacion no es el correcto",operacion.getOperacion(),'/');
-        Assert.assertNull("El valor de la operacion no es el correcto",operacion);
     }
 
 }
