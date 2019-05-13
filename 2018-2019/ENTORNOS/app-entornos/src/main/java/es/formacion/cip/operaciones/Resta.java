@@ -2,12 +2,10 @@ package es.formacion.cip.operaciones;
 
 public class Resta extends Operacion{
 
-    double resta;
 
-    public Resta(double n1, double n2) {
+    public Resta(double numero1, double numero2) {
 
-        super(n1, n2, '-');
-        this.resta = n1 - n2;
-        this.setResultado(this.resta);
+        super(numero1, numero2, '-');
+        this.setResultado (numero1 - numero2);
     }
 }

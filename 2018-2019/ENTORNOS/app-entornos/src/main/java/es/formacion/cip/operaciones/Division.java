@@ -1,15 +1,13 @@
 package es.formacion.cip.operaciones;
 
-public class Division extends Operacion{
+public class Division extends Operacion {
 
-    double div = 0;
 
-    public Division(double n1, double n2) {
+    public Division(double numero1, double numero2) {
 
-        super(n1, n2, '/');
-        if(n2==0) System.out.println("No se puede dividir entre cero");
-        else this.div = n1 / n2;
-        this.setResultado(this.div);
+        super(numero1, numero2, '/');
+        if(numero2==0) System.out.println("No se puede dividir entre cero");
+        else this.setResultado (numero1 / numero2);
 
     }
 }

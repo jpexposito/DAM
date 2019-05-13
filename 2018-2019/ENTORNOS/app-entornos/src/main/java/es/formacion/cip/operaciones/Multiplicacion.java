@@ -2,12 +2,10 @@ package es.formacion.cip.operaciones;
 
 public class Multiplicacion extends Operacion{
 
-    double multi;
 
-    public Multiplicacion(double n1, double n2) {
+    public Multiplicacion(double numero1, double numero2) {
 
-        super(n1, n2, '*');
-        this.multi = n1 * n2;
-        this.setResultado(this.multi);
+        super(numero1, numero2, '*');
+        this.setResultado (numero1 * numero2);
     }
 }

@@ -2,12 +2,10 @@ package es.formacion.cip.operaciones;
 
 public class Suma extends Operacion{
 
-    double suma;
 
-    public Suma(double n1, double n2) {
+    public Suma(double numero1, double numero2) {
 
-        super(n1, n2, '+');
-        this.suma = n1 + n2;
-        this.setResultado(this.suma);
+        super(numero1, numero2, '+');
+        this.setResultado ( numero1 + numero2);
     }
 }
