@@ -1,6 +1,6 @@
 package es.formacion.cip.operaciones;
 
-abstract class Operacion {
+abstract public class Operacion {
     private double numero1;
     private double numero2;
     private double resultado;
